@@ -1,5 +1,5 @@
-Hi 👋, I'm Vinay
-I'm a Software Engineer nowadays writing Layer 1 Blockchain in Rust,I am interested in open-source,Blockchain,AI and data privacy.
+Hi 👋,
+My name is Vinay Sawant, I am a Software Engineer, nowadays writing Layer 1 Blockchain in Rust,I am interested in open-source,Blockchain,AI ,Machine Learning and data privacy.
 
 👨🏻‍💻 About Me
 I have 9+ years of experience in the Software Industry in Designing & Developing enterprise/cloud products for 
