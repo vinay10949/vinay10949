@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi 👋, I'm Vinay
+I'm a Software Engineer nowadays writing Layer 1 Blockchain in Rust,I am interested in open-source,Blockchain,AI and data privacy.
 
-<!--
-**vinay10949/vinay10949** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 About Me
+I have 9+ years of experience in the Software Industry in Designing & Developing enterprise/cloud products for 
+E-Commerce, Fintech and the Healthcare Industry. Developed high-end products using advanced analytics and machine learning. Interested in developing high QPS distributed systems that are data-intensive & latency-sensitive.
+I am passionate about Blockchain, DeFi, Backend Development, Distributed Systems, Data Engineering and ML.
 
-Here are some ideas to get you started:
+🛠 Tech Stack
+Rust  Go  Python Java NodeJS  C++ 
+Git  GitHub  Markdown
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝🏻 Connect with Me
+  
