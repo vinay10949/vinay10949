@@ -2,7 +2,7 @@ Hi 👋,
 My name is Vinay Sawant, I am a Software Engineer, nowadays writing Layer 1 Blockchain in Rust,I am interested in open-source,Blockchain,AI ,Machine Learning and data privacy.
 
 👨🏻‍💻 About Me
-I have 9+ years of experience in the Software Industry in Designing & Developing enterprise/cloud products for 
+I have 10+ years of experience in the Software Industry in Designing & Developing enterprise/cloud products for 
 E-Commerce, Fintech and the Healthcare Industry. Developed high-end products using advanced analytics and machine learning. Interested in developing high QPS distributed systems that are data-intensive & latency-sensitive.
 I am passionate about Blockchain, DeFi, Backend Development, Distributed Systems, Data Engineering and ML.
 
